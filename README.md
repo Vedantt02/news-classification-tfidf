@@ -106,9 +106,3 @@ Through this project, I focused on:
 * Pandas
 * Matplotlib / Seaborn
 
----
-
-## 🙌 Author
-
-Vedant
-CSE Student | ML & DL Enthusiast
